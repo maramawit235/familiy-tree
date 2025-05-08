@@ -1,2 +1,2 @@
-# familiy-tree
-familiy tree managment system
+# family-tree
+family tree managment system
